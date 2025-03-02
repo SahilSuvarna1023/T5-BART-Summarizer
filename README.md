@@ -14,6 +14,7 @@ Evaluates summaries using ROUGE metrics
 📦 Dataset
 
 The project uses the CNN/DailyMail dataset, which contains news articles and their corresponding summaries. It also supports custom datasets in CSV format.
+Dataset Link : https://www.kaggle.com/datasets/gowrishankarp/newspaper-text-summarization-cnn-dailymail
 
 🔥 Usage
 
